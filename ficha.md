@@ -27,7 +27,7 @@ La malla o dataset de cobertura espacial georreferenciado.
 ## Tamaño y recursos
 Se estiman 16 corridas de 2 minutos cada una (\~32 min en total). Requiere computador personal con R (`sf`, `spdep`, `gstat`).
 
-### Ficha Técnica 3: Muestreo Estadístico
+# Ficha Técnica 3: Muestreo Estadístico
 
 ## Nombres 
 Mónica López - Nicolas Forero
