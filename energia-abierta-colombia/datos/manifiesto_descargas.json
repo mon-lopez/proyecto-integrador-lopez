@@ -1,0 +1,50 @@
+{
+ "fecha": "2026-11-11",
+ "descargas": [
+  {
+   "archivo": "datos/brutos/upme_generacion_por_fuente.csv",
+   "url_origen": "https://www.datos.gov.co/resource/tq63-itzr.csv?%24limit=200000",
+   "licencia": "CC BY 4.0",
+   "bytes": 283808,
+   "sha256": "4b55dee43a46a5499a1ff84447a3f5b52c7b8a0edb7591b3f623bb22fb05447d",
+   "fecha_descarga": "2026-11-11",
+   "notas": "UPME - Producción de electricidad por fuente de combustible (mensual, 2000-) | ficha: https://www.datos.gov.co/d/tq63-itzr"
+  },
+  {
+   "archivo": "datos/brutos/minenergia_meta_fncer.csv",
+   "url_origen": "https://www.datos.gov.co/resource/vy9n-w6hc.csv?%24limit=200000",
+   "licencia": "CC BY-SA 4.0",
+   "bytes": 22914,
+   "sha256": "3db497eabcfcc2ab74c7cdd8ee5adb99a9afe89fb590ac67b3365be94558c4bb",
+   "fecha_descarga": "2026-11-11",
+   "notas": "MinEnergía - Meta FNCER: proyectos, capacidad y emisiones CO2 declaradas | ficha: https://www.datos.gov.co/d/vy9n-w6hc"
+  },
+  {
+   "archivo": "datos/brutos/ideam_ingei_series.csv",
+   "url_origen": "https://www.datos.gov.co/resource/6rff-a5ep.csv?%24limit=200000",
+   "licencia": "CC BY-SA 4.0",
+   "bytes": 3708106,
+   "sha256": "4cc0d1f3581faff97b0a3f1fdb53a1483bf7329a6c027395cc1ba2c0fedd8b97",
+   "fecha_descarga": "2026-11-11",
+   "notas": "IDEAM - Series históricas del Inventario Nacional de GEI (1990-2024) | ficha: https://www.datos.gov.co/d/6rff-a5ep"
+  },
+  {
+   "archivo": "datos/brutos/ideam_factores_emision_energia.csv",
+   "url_origen": "https://www.datos.gov.co/resource/28sd-dsje.csv?%24limit=200000&%24select=ano%2Csector_ipcc%2Ccategoria%2Csubcategoria1%2Csubcategoria2%2Cclasificacion1%2Cnombre_factor%2Ccodigo_factor%2Cvalor_f%2Cunidad_f%2Ccontaminante%2Centidad%2Cbibliografia&%24where=sector_ipcc%3D%271.+Energ%C3%ADa%27+AND+subcategoria1+like+%271.A.1%25%27&%24order=ano",
+   "licencia": "CC BY-SA 4.0",
+   "bytes": 3021339,
+   "sha256": "ee1177ba47a960f432b2c39f2e30047590010765e24cae68ef8f83db882cd7d3",
+   "fecha_descarga": "2026-11-11",
+   "notas": "IDEAM - Factores de emisión del INGEI, subconjunto 1.A.1 (industrias de la energía) | ficha: https://www.datos.gov.co/d/28sd-dsje"
+  },
+  {
+   "archivo": "datos/brutos/ember_colombia_anual.csv",
+   "url_origen": "https://files.ember-energy.org/public-downloads/generation/outputs/release_generation_yearly_global.csv",
+   "licencia": "CC BY 4.0",
+   "bytes": 82125,
+   "sha256": "82e7d6a3dbbbb29f7955704c1dee960e8aa04589ae73e02b2c0225c738c86ad4",
+   "fecha_descarga": "2026-11-11",
+   "notas": "Subconjunto Colombia (441 filas) del dataset global de Ember; formato de columnas vigente desde julio de 2026"
+  }
+ ]
+}

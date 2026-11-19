@@ -1,0 +1,442 @@
+Area,ISO 3 code,Year,Area type,Electricity source,Is aggregated source,Generation (TWh),Generation YoY change (TWh),Generation YoY change (%),Share of generation (%),Share of generation YoY change (% points),Capacity (GW),Emissions (MtCO2e),Emissions YoY change (MtCO2e),Emissions YoY change (%),Share of emissions (%),Emissions intensity (gCO2e/kWh),Continent,Ember region,EU member,OECD member,G20 member,G7 member,ASEAN member
+Colombia,COL,2000,Country or economy,Solar,False,0.01,,,0.023,,0.0,0.0,,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2000,Country or economy,Wind,False,0.0,,,0.0,,0.0,0.0,,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2000,Country or economy,Hydro,False,31.75,,,74.165,,8.27,0.754,,,9.291,23.748,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2000,Country or economy,Bioenergy,False,0.5,,,1.168,,0.08,0.108,,,1.331,216.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2000,Country or economy,Other renewables,False,0.0,,,0.0,,0.0,0.0,,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2000,Country or economy,Nuclear,False,0.0,,,0.0,,0.0,0.0,,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2000,Country or economy,Coal,False,2.08,,,4.859,,1.01,1.813,,,22.34,871.635,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2000,Country or economy,Gas,False,8.25,,,19.271,,2.38,5.295,,,65.246,641.818,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2000,Country or economy,Other fossil,False,0.22,,,0.514,,0.29,0.145,,,1.787,659.091,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2000,Country or economy,Net imports,False,0.04,,,0.093,,,0.0,,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2000,Country or economy,Wind and solar,True,0.01,,,0.023,,0.0,0.0,,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2000,Country or economy,"Hydro, bioenergy and other renewables",True,32.25,,,75.333,,8.35,0.862,,,10.622,26.729,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2000,Country or economy,Renewables,True,32.26,,,75.356,,8.35,0.863,,,10.634,26.751,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2000,Country or economy,Clean,True,32.26,,,75.356,,8.35,0.863,,,10.634,26.751,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2000,Country or economy,Fossil,True,10.55,,,24.644,,3.6799999999999997,7.253,,,89.372,687.488,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2000,Country or economy,Total generation,True,42.81,,,100.0,,12.029999999999998,8.115,,,99.994,189.559,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2000,Country or economy,Demand,True,42.85,,,100.093,,,,,,,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2001,Country or economy,Solar,False,0.01,0.0,0.0,0.023,0.0,0.0,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2001,Country or economy,Wind,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2001,Country or economy,Hydro,False,31.48,-0.27,-0.85,72.972,-1.193,8.68,0.748,-0.006,-0.796,8.77,23.761,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2001,Country or economy,Bioenergy,False,0.5,0.0,0.0,1.159,-0.009,0.08,0.108,0.0,0.0,1.266,216.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2001,Country or economy,Other renewables,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2001,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2001,Country or economy,Coal,False,2.23,0.15,7.212,5.169,0.31,1.01,1.944,0.131,7.226,22.793,871.749,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2001,Country or economy,Gas,False,8.69,0.44,5.333,20.144,0.873,2.84,5.577,0.282,5.326,65.39,641.772,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2001,Country or economy,Other fossil,False,0.23,0.01,4.545,0.533,0.019,0.29,0.151,0.006,4.138,1.77,656.522,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2001,Country or economy,Net imports,False,-0.17,-0.21,-525.0,-0.394,-0.487,,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2001,Country or economy,Wind and solar,True,0.01,0.0,0.0,0.023,0.0,0.0,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2001,Country or economy,"Hydro, bioenergy and other renewables",True,31.98,-0.27,-0.837,74.131,-1.202,8.76,0.856,-0.006,-0.696,10.037,26.767,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2001,Country or economy,Renewables,True,31.99,-0.27,-0.837,74.154,-1.202,8.76,0.857,-0.006,-0.695,10.048,26.79,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2001,Country or economy,Clean,True,31.99,-0.27,-0.837,74.154,-1.202,8.76,0.857,-0.006,-0.695,10.048,26.79,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2001,Country or economy,Fossil,True,11.15,0.6,5.687,25.846,1.202,4.14,7.672,0.419,5.777,89.954,688.072,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2001,Country or economy,Total generation,True,43.14,0.33,0.771,100.0,0.0,12.899999999999999,8.529,0.414,5.102,100.002,197.705,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2001,Country or economy,Demand,True,42.97,0.12,0.28,99.606,-0.487,,,,,,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2002,Country or economy,Solar,False,0.01,0.0,0.0,0.022,-0.001,0.0,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2002,Country or economy,Wind,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2002,Country or economy,Hydro,False,33.63,2.15,6.83,75.218,2.246,9.04,0.799,0.051,6.818,9.746,23.759,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2002,Country or economy,Bioenergy,False,0.49,-0.01,-2.0,1.096,-0.063,0.08,0.106,-0.002,-1.852,1.293,216.327,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2002,Country or economy,Other renewables,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2002,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2002,Country or economy,Coal,False,2.17,-0.06,-2.691,4.854,-0.315,1.01,1.892,-0.052,-2.675,23.079,871.889,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2002,Country or economy,Gas,False,8.18,-0.51,-5.869,18.296,-1.848,2.84,5.25,-0.327,-5.863,64.039,641.809,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2002,Country or economy,Other fossil,False,0.23,0.0,0.0,0.514,-0.019,0.28,0.151,0.0,0.0,1.842,656.522,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2002,Country or economy,Net imports,False,-0.61,-0.44,258.824,-1.364,-0.97,,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2002,Country or economy,Wind and solar,True,0.01,0.0,0.0,0.022,-0.001,0.0,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2002,Country or economy,"Hydro, bioenergy and other renewables",True,34.12,2.14,6.692,76.314,2.183,9.12,0.905,0.049,5.724,11.039,26.524,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2002,Country or economy,Renewables,True,34.13,2.14,6.69,76.336,2.182,9.12,0.905,0.048,5.601,11.039,26.516,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2002,Country or economy,Clean,True,34.13,2.14,6.69,76.336,2.182,9.12,0.905,0.048,5.601,11.039,26.516,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2002,Country or economy,Fossil,True,10.58,-0.57,-5.112,23.664,-2.182,4.13,7.293,-0.379,-4.94,88.96,689.319,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2002,Country or economy,Total generation,True,44.71,1.57,3.639,100.0,0.0,13.249999999999998,8.198,-0.331,-3.881,99.999,183.359,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2002,Country or economy,Demand,True,44.1,1.13,2.63,98.636,-0.97,,,,,,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2003,Country or economy,Solar,False,0.01,0.0,0.0,0.022,0.0,0.0,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2003,Country or economy,Wind,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2003,Country or economy,Hydro,False,35.81,2.18,6.482,77.511,2.293,8.86,0.851,0.052,6.508,10.704,23.764,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2003,Country or economy,Bioenergy,False,0.5,0.01,2.041,1.082,-0.014,0.08,0.108,0.002,1.887,1.358,216.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2003,Country or economy,Other renewables,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2003,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2003,Country or economy,Coal,False,2.81,0.64,29.493,6.082,1.228,1.01,2.449,0.557,29.44,30.804,871.53,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2003,Country or economy,Gas,False,6.83,-1.35,-16.504,14.784,-3.512,2.84,4.383,-0.867,-16.514,55.131,641.728,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2003,Country or economy,Other fossil,False,0.24,0.01,4.348,0.519,0.005,0.28,0.158,0.007,4.636,1.987,658.333,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2003,Country or economy,Net imports,False,-1.11,-0.5,81.967,-2.403,-1.039,,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2003,Country or economy,Wind and solar,True,0.01,0.0,0.0,0.022,0.0,0.0,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2003,Country or economy,"Hydro, bioenergy and other renewables",True,36.31,2.19,6.419,78.593,2.279,8.94,0.959,0.054,5.967,12.063,26.411,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2003,Country or economy,Renewables,True,36.32,2.19,6.417,78.615,2.279,8.94,0.959,0.054,5.967,12.063,26.404,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2003,Country or economy,Clean,True,36.32,2.19,6.417,78.615,2.279,8.94,0.959,0.054,5.967,12.063,26.404,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2003,Country or economy,Fossil,True,9.88,-0.7,-6.616,21.385,-2.279,4.13,6.991,-0.302,-4.141,87.936,707.591,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2003,Country or economy,Total generation,True,46.2,1.49,3.333,100.0,0.0,13.069999999999999,7.95,-0.248,-3.025,99.998,172.078,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2003,Country or economy,Demand,True,45.09,0.99,2.245,97.597,-1.039,,,,,,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2004,Country or economy,Solar,False,0.01,0.0,0.0,0.02,-0.002,0.0,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2004,Country or economy,Wind,False,0.05,0.05,,0.101,0.101,0.02,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2004,Country or economy,Hydro,False,39.68,3.87,10.807,80.438,2.927,8.93,0.943,0.092,10.811,12.865,23.765,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2004,Country or economy,Bioenergy,False,0.47,-0.03,-6.0,0.953,-0.129,0.08,0.102,-0.006,-5.556,1.392,217.021,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2004,Country or economy,Other renewables,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2004,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2004,Country or economy,Coal,False,1.86,-0.95,-33.808,3.771,-2.311,1.01,1.621,-0.828,-33.81,22.115,871.505,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2004,Country or economy,Gas,False,7.01,0.18,2.635,14.21,-0.574,2.84,4.499,0.116,2.647,61.378,641.797,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2004,Country or economy,Other fossil,False,0.25,0.01,4.167,0.507,-0.012,0.3,0.164,0.006,3.797,2.237,656.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2004,Country or economy,Net imports,False,-1.63,-0.52,46.847,-3.304,-0.901,,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2004,Country or economy,Wind and solar,True,0.06,0.05,500.0,0.122,0.1,0.02,0.001,0.001,,0.014,16.667,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2004,Country or economy,"Hydro, bioenergy and other renewables",True,40.15,3.84,10.576,81.391,2.798,9.01,1.044,0.085,8.863,14.243,26.002,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2004,Country or economy,Renewables,True,40.21,3.89,10.71,81.512,2.897,9.03,1.045,0.086,8.968,14.257,25.989,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2004,Country or economy,Clean,True,40.21,3.89,10.71,81.512,2.897,9.03,1.045,0.086,8.968,14.257,25.989,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2004,Country or economy,Fossil,True,9.12,-0.76,-7.692,18.488,-2.897,4.1499999999999995,6.285,-0.706,-10.099,85.744,689.145,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2004,Country or economy,Total generation,True,49.33,3.13,6.775,100.0,0.0,13.18,7.33,-0.62,-7.799,100.0,148.591,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2004,Country or economy,Demand,True,47.7,2.61,5.788,96.696,-0.901,,,,,,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2005,Country or economy,Solar,False,0.01,0.0,0.0,0.02,0.0,0.0,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2005,Country or economy,Wind,False,0.05,0.0,0.0,0.1,-0.001,0.01,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2005,Country or economy,Hydro,False,39.4,-0.28,-0.706,78.895,-1.543,8.95,0.936,-0.007,-0.742,11.715,23.756,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2005,Country or economy,Bioenergy,False,0.5,0.03,6.383,1.001,0.048,0.08,0.108,0.006,5.882,1.352,216.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2005,Country or economy,Other renewables,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2005,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2005,Country or economy,Coal,False,2.33,0.47,25.269,4.666,0.895,1.01,2.031,0.41,25.293,25.42,871.674,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2005,Country or economy,Gas,False,7.4,0.39,5.563,14.818,0.608,2.84,4.749,0.25,5.557,59.438,641.757,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2005,Country or economy,Other fossil,False,0.25,0.0,0.0,0.501,-0.006,0.3,0.164,0.0,0.0,2.053,656.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2005,Country or economy,Net imports,False,-1.74,-0.11,6.748,-3.484,-0.18,,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2005,Country or economy,Wind and solar,True,0.06,0.0,0.0,0.12,-0.002,0.01,0.001,0.0,0.0,0.013,16.667,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2005,Country or economy,"Hydro, bioenergy and other renewables",True,39.9,-0.25,-0.623,79.896,-1.495,9.03,1.044,0.0,0.0,13.067,26.165,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2005,Country or economy,Renewables,True,39.96,-0.25,-0.622,80.016,-1.496,9.04,1.045,0.0,0.0,13.079,26.151,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2005,Country or economy,Clean,True,39.96,-0.25,-0.622,80.016,-1.496,9.04,1.045,0.0,0.0,13.079,26.151,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2005,Country or economy,Fossil,True,9.98,0.86,9.43,19.984,1.496,4.1499999999999995,6.945,0.66,10.501,86.923,695.892,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2005,Country or economy,Total generation,True,49.94,0.61,1.237,100.0,0.0,13.19,7.99,0.66,9.004,100.003,159.992,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2005,Country or economy,Demand,True,48.2,0.5,1.048,96.516,-0.18,,,,,,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2006,Country or economy,Solar,False,0.01,0.0,0.0,0.019,-0.001,0.0,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2006,Country or economy,Wind,False,0.06,0.01,20.0,0.112,0.012,0.02,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2006,Country or economy,Hydro,False,42.31,2.91,7.386,79.321,0.426,8.95,1.005,0.069,7.372,11.864,23.753,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2006,Country or economy,Bioenergy,False,0.53,0.03,6.0,0.994,-0.007,0.09,0.115,0.007,6.481,1.358,216.981,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2006,Country or economy,Other renewables,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2006,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2006,Country or economy,Coal,False,2.84,0.51,21.888,5.324,0.658,1.01,2.476,0.445,21.91,29.229,871.831,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2006,Country or economy,Gas,False,7.38,-0.02,-0.27,13.836,-0.982,2.84,4.736,-0.013,-0.274,55.909,641.734,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2006,Country or economy,Other fossil,False,0.21,-0.04,-16.0,0.394,-0.107,0.24,0.138,-0.026,-15.854,1.629,657.143,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2006,Country or economy,Net imports,False,-1.79,-0.05,2.874,-3.356,0.128,,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2006,Country or economy,Wind and solar,True,0.07,0.01,16.667,0.131,0.011,0.02,0.001,0.0,0.0,0.012,14.286,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2006,Country or economy,"Hydro, bioenergy and other renewables",True,42.84,2.94,7.368,80.315,0.419,9.04,1.12,0.076,7.28,13.222,26.144,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2006,Country or economy,Renewables,True,42.91,2.95,7.382,80.446,0.43,9.059999999999999,1.121,0.076,7.273,13.234,26.124,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2006,Country or economy,Clean,True,42.91,2.95,7.382,80.446,0.43,9.059999999999999,1.121,0.076,7.273,13.234,26.124,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2006,Country or economy,Fossil,True,10.43,0.45,4.509,19.554,-0.43,4.09,7.35,0.405,5.832,86.767,704.698,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2006,Country or economy,Total generation,True,53.34,3.4,6.808,100.0,0.0,13.149999999999999,8.471,0.481,6.02,100.001,158.811,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2006,Country or economy,Demand,True,51.55,3.35,6.95,96.644,0.128,,,,,,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2007,Country or economy,Solar,False,0.01,0.0,0.0,0.018,-0.001,0.0,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2007,Country or economy,Wind,False,0.05,-0.01,-16.667,0.091,-0.021,0.02,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2007,Country or economy,Hydro,False,44.0,1.69,3.994,80.307,0.986,8.99,1.045,0.04,3.98,12.308,23.75,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2007,Country or economy,Bioenergy,False,0.53,0.0,0.0,0.967,-0.027,0.09,0.115,0.0,0.0,1.354,216.981,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2007,Country or economy,Other renewables,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2007,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2007,Country or economy,Coal,False,3.39,0.55,19.366,6.187,0.863,1.01,2.955,0.479,19.346,34.804,871.681,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2007,Country or economy,Gas,False,6.57,-0.81,-10.976,11.991,-1.845,2.84,4.216,-0.52,-10.98,49.656,641.705,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2007,Country or economy,Other fossil,False,0.24,0.03,14.286,0.438,0.044,0.24,0.158,0.02,14.493,1.861,658.333,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2007,Country or economy,Net imports,False,-0.84,0.95,-53.073,-1.533,1.823,,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2007,Country or economy,Wind and solar,True,0.06,-0.01,-14.286,0.11,-0.021,0.02,0.001,0.0,0.0,0.012,16.667,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2007,Country or economy,"Hydro, bioenergy and other renewables",True,44.53,1.69,3.945,81.274,0.959,9.08,1.16,0.04,3.571,13.663,26.05,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2007,Country or economy,Renewables,True,44.59,1.68,3.915,81.383,0.937,9.1,1.161,0.04,3.568,13.674,26.037,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2007,Country or economy,Clean,True,44.59,1.68,3.915,81.383,0.937,9.1,1.161,0.04,3.568,13.674,26.037,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2007,Country or economy,Fossil,True,10.2,-0.23,-2.205,18.617,-0.937,4.09,7.329,-0.021,-0.286,86.322,718.529,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2007,Country or economy,Total generation,True,54.79,1.45,2.718,100.0,0.0,13.19,8.49,0.019,0.224,99.996,154.955,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2007,Country or economy,Demand,True,53.95,2.4,4.656,98.467,1.823,,,,,,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2008,Country or economy,Solar,False,0.01,0.0,0.0,0.018,0.0,0.0,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2008,Country or economy,Wind,False,0.05,0.0,0.0,0.09,-0.001,0.02,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2008,Country or economy,Hydro,False,45.94,1.94,4.409,82.805,2.498,9.0,1.092,0.047,4.498,14.327,23.77,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2008,Country or economy,Bioenergy,False,0.54,0.01,1.887,0.973,0.006,0.09,0.117,0.002,1.739,1.535,216.667,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2008,Country or economy,Other renewables,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2008,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2008,Country or economy,Coal,False,2.92,-0.47,-13.864,5.263,-0.924,1.01,2.545,-0.41,-13.875,33.389,871.575,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2008,Country or economy,Gas,False,5.76,-0.81,-12.329,10.382,-1.609,2.84,3.697,-0.519,-12.31,48.503,641.84,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2008,Country or economy,Other fossil,False,0.26,0.02,8.333,0.469,0.031,0.3,0.171,0.013,8.228,2.243,657.692,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2008,Country or economy,Net imports,False,-1.4,-0.56,66.667,-2.523,-0.99,,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2008,Country or economy,Wind and solar,True,0.06,0.0,0.0,0.108,-0.002,0.02,0.001,0.0,0.0,0.013,16.667,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2008,Country or economy,"Hydro, bioenergy and other renewables",True,46.48,1.95,4.379,83.778,2.504,9.09,1.208,0.048,4.138,15.848,25.99,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2008,Country or economy,Renewables,True,46.54,1.95,4.373,83.886,2.503,9.11,1.209,0.048,4.134,15.862,25.978,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2008,Country or economy,Clean,True,46.54,1.95,4.373,83.886,2.503,9.11,1.209,0.048,4.134,15.862,25.978,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2008,Country or economy,Fossil,True,8.94,-1.26,-12.353,16.114,-2.503,4.1499999999999995,6.413,-0.916,-12.498,84.136,717.338,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2008,Country or economy,Total generation,True,55.48,0.69,1.259,100.0,0.0,13.26,7.622,-0.868,-10.224,99.997,137.383,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2008,Country or economy,Demand,True,54.08,0.13,0.241,97.477,-0.99,,,,,,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2009,Country or economy,Solar,False,0.01,0.0,0.0,0.018,0.0,0.0,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2009,Country or economy,Wind,False,0.06,0.01,20.0,0.106,0.016,0.02,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2009,Country or economy,Hydro,False,40.64,-5.3,-11.537,71.612,-11.193,9.0,0.966,-0.126,-11.538,8.053,23.77,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2009,Country or economy,Bioenergy,False,0.54,0.0,0.0,0.952,-0.021,0.11,0.117,0.0,0.0,0.975,216.667,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2009,Country or economy,Other renewables,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2009,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2009,Country or economy,Coal,False,4.17,1.25,42.808,7.348,2.085,1.01,3.635,1.09,42.829,30.302,871.703,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2009,Country or economy,Gas,False,10.94,5.18,89.931,19.278,8.896,2.84,7.021,3.324,89.911,58.528,641.773,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2009,Country or economy,Other fossil,False,0.39,0.13,50.0,0.687,0.218,0.3,0.257,0.086,50.292,2.142,658.974,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2009,Country or economy,Net imports,False,-1.06,0.34,-24.286,-1.868,0.655,,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2009,Country or economy,Wind and solar,True,0.07,0.01,16.667,0.123,0.015,0.02,0.001,0.0,0.0,0.008,14.286,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2009,Country or economy,"Hydro, bioenergy and other renewables",True,41.18,-5.3,-11.403,72.564,-11.214,9.11,1.082,-0.126,-10.43,9.02,26.275,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2009,Country or economy,Renewables,True,41.25,-5.29,-11.367,72.687,-11.199,9.129999999999999,1.083,-0.126,-10.422,9.028,26.255,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2009,Country or economy,Clean,True,41.25,-5.29,-11.367,72.687,-11.199,9.129999999999999,1.083,-0.126,-10.422,9.028,26.255,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2009,Country or economy,Fossil,True,15.5,6.56,73.378,27.313,11.199,4.1499999999999995,10.913,4.5,70.17,90.973,704.065,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2009,Country or economy,Total generation,True,56.75,1.27,2.289,100.0,0.0,13.280000000000001,11.996,4.374,57.387,100.001,211.383,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2009,Country or economy,Demand,True,55.69,1.61,2.977,98.132,0.655,,,,,,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2010,Country or economy,Solar,False,0.01,0.0,0.0,0.017,-0.001,0.0,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2010,Country or economy,Wind,False,0.04,-0.02,-33.333,0.066,-0.04,0.02,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2010,Country or economy,Hydro,False,40.0,-0.64,-1.575,66.412,-5.2,9.26,0.95,-0.016,-1.656,6.869,23.75,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2010,Country or economy,Bioenergy,False,2.42,1.88,348.148,4.018,3.066,0.17,0.523,0.406,347.009,3.782,216.116,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2010,Country or economy,Other renewables,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2010,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2010,Country or economy,Coal,False,4.04,-0.13,-3.118,6.708,-0.64,1.01,3.522,-0.113,-3.109,25.467,871.782,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2010,Country or economy,Gas,False,11.97,1.03,9.415,19.874,0.596,2.84,7.682,0.661,9.415,55.548,641.771,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2010,Country or economy,Other fossil,False,1.75,1.36,348.718,2.906,2.219,0.3,1.152,0.895,348.249,8.33,658.286,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2010,Country or economy,Net imports,False,-0.79,0.27,-25.472,-1.312,0.556,,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2010,Country or economy,Wind and solar,True,0.05,-0.02,-28.571,0.083,-0.04,0.02,0.001,0.0,0.0,0.007,20.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2010,Country or economy,"Hydro, bioenergy and other renewables",True,42.42,1.24,3.011,70.43,-2.134,9.43,1.474,0.392,36.229,10.658,34.748,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2010,Country or economy,Renewables,True,42.47,1.22,2.958,70.513,-2.174,9.45,1.474,0.391,36.103,10.658,34.707,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2010,Country or economy,Clean,True,42.47,1.22,2.958,70.513,-2.174,9.45,1.474,0.391,36.103,10.658,34.707,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2010,Country or economy,Fossil,True,17.76,2.26,14.581,29.487,2.174,4.1499999999999995,12.355,1.442,13.214,89.337,695.664,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2010,Country or economy,Total generation,True,60.23,3.48,6.132,100.0,0.0,13.6,13.83,1.834,15.288,100.003,229.62,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2010,Country or economy,Demand,True,59.44,3.75,6.734,98.688,0.556,,,,,,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2011,Country or economy,Solar,False,0.01,0.0,0.0,0.016,-0.001,0.0,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2011,Country or economy,Wind,False,0.04,0.0,0.0,0.065,-0.001,0.02,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2011,Country or economy,Hydro,False,48.39,8.39,20.975,78.428,12.016,9.72,1.15,0.2,21.053,12.301,23.765,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2011,Country or economy,Bioenergy,False,2.0,-0.42,-17.355,3.241,-0.777,0.18,0.432,-0.091,-17.4,4.621,216.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2011,Country or economy,Other renewables,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2011,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2011,Country or economy,Coal,False,2.25,-1.79,-44.307,3.647,-3.061,1.01,1.961,-1.561,-44.321,20.976,871.556,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2011,Country or economy,Gas,False,7.64,-4.33,-36.174,12.382,-7.492,3.29,4.903,-2.779,-36.175,52.445,641.754,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2011,Country or economy,Other fossil,False,1.37,-0.38,-21.714,2.22,-0.686,0.3,0.901,-0.251,-21.788,9.638,657.664,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2011,Country or economy,Net imports,False,-1.53,-0.74,93.671,-2.48,-1.168,,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2011,Country or economy,Wind and solar,True,0.05,0.0,0.0,0.081,-0.002,0.02,0.001,0.0,0.0,0.011,20.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2011,Country or economy,"Hydro, bioenergy and other renewables",True,50.39,7.97,18.788,81.669,11.239,9.9,1.582,0.108,7.327,16.922,31.395,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2011,Country or economy,Renewables,True,50.44,7.97,18.766,81.75,11.237,9.92,1.583,0.109,7.395,16.933,31.384,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2011,Country or economy,Clean,True,50.44,7.97,18.766,81.75,11.237,9.92,1.583,0.109,7.395,16.933,31.384,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2011,Country or economy,Fossil,True,11.26,-6.5,-36.599,18.25,-11.237,4.6,7.766,-4.589,-37.143,83.069,689.698,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2011,Country or economy,Total generation,True,61.7,1.47,2.441,100.0,0.0,14.520000000000001,9.349,-4.481,-32.401,100.001,151.524,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2011,Country or economy,Demand,True,60.17,0.73,1.228,97.52,-1.168,,,,,,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2012,Country or economy,Solar,False,0.01,0.0,0.0,0.016,0.0,0.0,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2012,Country or economy,Wind,False,0.05,0.01,25.0,0.079,0.014,0.02,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2012,Country or economy,Hydro,False,47.11,-1.28,-2.645,74.707,-3.721,9.78,1.119,-0.031,-2.696,9.915,23.753,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2012,Country or economy,Bioenergy,False,1.95,-0.05,-2.5,3.092,-0.149,0.18,0.422,-0.01,-2.315,3.739,216.41,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2012,Country or economy,Other renewables,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2012,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2012,Country or economy,Coal,False,3.36,1.11,49.333,5.328,1.681,1.01,2.929,0.968,49.363,25.951,871.726,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2012,Country or economy,Gas,False,8.99,1.35,17.67,14.256,1.874,3.29,5.77,0.867,17.683,51.123,641.824,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2012,Country or economy,Other fossil,False,1.59,0.22,16.058,2.521,0.301,1.2,1.046,0.145,16.093,9.268,657.862,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2012,Country or economy,Net imports,False,-0.71,0.82,-53.595,-1.126,1.354,,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2012,Country or economy,Wind and solar,True,0.06,0.01,20.0,0.095,0.014,0.02,0.001,0.0,0.0,0.009,16.667,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2012,Country or economy,"Hydro, bioenergy and other renewables",True,49.06,-1.33,-2.639,77.799,-3.87,9.959999999999999,1.541,-0.041,-2.592,13.654,31.411,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2012,Country or economy,Renewables,True,49.12,-1.32,-2.617,77.894,-3.856,9.979999999999999,1.542,-0.041,-2.59,13.662,31.393,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2012,Country or economy,Clean,True,49.12,-1.32,-2.617,77.894,-3.856,9.979999999999999,1.542,-0.041,-2.59,13.662,31.393,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2012,Country or economy,Fossil,True,13.94,2.68,23.801,22.106,3.856,5.5,9.745,1.979,25.483,86.342,699.067,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2012,Country or economy,Total generation,True,63.06,1.36,2.204,100.0,0.0,15.479999999999999,11.286,1.937,20.719,99.996,178.972,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2012,Country or economy,Demand,True,62.35,2.18,3.623,98.874,1.354,,,,,,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2013,Country or economy,Solar,False,0.01,0.0,0.0,0.014,-0.002,0.0,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2013,Country or economy,Wind,False,0.06,0.01,20.0,0.082,0.003,0.02,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2013,Country or economy,Hydro,False,49.76,2.65,5.625,67.691,-7.016,9.88,1.182,0.063,5.63,6.816,23.754,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2013,Country or economy,Bioenergy,False,1.05,-0.9,-46.154,1.428,-1.664,0.19,0.227,-0.195,-46.209,1.309,216.19,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2013,Country or economy,Other renewables,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2013,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2013,Country or economy,Coal,False,6.04,2.68,79.762,8.217,2.889,1.01,5.265,2.336,79.754,30.359,871.689,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2013,Country or economy,Gas,False,15.36,6.37,70.857,20.895,6.639,3.29,9.858,4.088,70.849,56.844,641.797,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2013,Country or economy,Other fossil,False,1.23,-0.36,-22.642,1.673,-0.848,1.87,0.809,-0.237,-22.658,4.665,657.724,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2013,Country or economy,Net imports,False,-1.35,-0.64,90.141,-1.836,-0.71,,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2013,Country or economy,Wind and solar,True,0.07,0.01,16.667,0.095,0.0,0.02,0.001,0.0,0.0,0.006,14.286,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2013,Country or economy,"Hydro, bioenergy and other renewables",True,50.81,1.75,3.567,69.12,-8.679,10.07,1.409,-0.132,-8.566,8.125,27.731,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2013,Country or economy,Renewables,True,50.88,1.76,3.583,69.215,-8.679,10.09,1.41,-0.132,-8.56,8.13,27.712,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2013,Country or economy,Clean,True,50.88,1.76,3.583,69.215,-8.679,10.09,1.41,-0.132,-8.56,8.13,27.712,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2013,Country or economy,Fossil,True,22.63,8.69,62.339,30.785,8.679,6.17,15.932,6.187,63.489,91.868,704.021,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2013,Country or economy,Total generation,True,73.51,10.45,16.572,100.0,0.0,16.26,17.342,6.056,53.659,99.998,235.913,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2013,Country or economy,Demand,True,72.16,9.81,15.734,98.164,-0.71,,,,,,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2014,Country or economy,Solar,False,0.01,0.0,0.0,0.014,0.0,0.0,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2014,Country or economy,Wind,False,0.07,0.01,16.667,0.099,0.017,0.02,0.001,0.001,,0.006,14.286,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2014,Country or economy,Hydro,False,47.25,-2.51,-5.044,67.059,-0.632,10.92,1.123,-0.059,-4.992,6.732,23.767,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2014,Country or economy,Bioenergy,False,1.35,0.3,28.571,1.916,0.488,0.21,0.292,0.065,28.634,1.75,216.296,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2014,Country or economy,Other renewables,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2014,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2014,Country or economy,Coal,False,5.46,-0.58,-9.603,7.749,-0.468,1.01,4.76,-0.505,-9.592,28.533,871.795,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2014,Country or economy,Gas,False,14.24,-1.12,-7.292,20.21,-0.685,3.29,9.139,-0.719,-7.294,54.782,641.784,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2014,Country or economy,Other fossil,False,2.08,0.85,69.106,2.952,1.279,1.81,1.369,0.56,69.221,8.206,658.173,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2014,Country or economy,Net imports,False,-0.8,0.55,-40.741,-1.135,0.701,,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2014,Country or economy,Wind and solar,True,0.08,0.01,14.286,0.114,0.019,0.02,0.001,0.0,0.0,0.006,12.5,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2014,Country or economy,"Hydro, bioenergy and other renewables",True,48.6,-2.21,-4.35,68.975,-0.145,11.13,1.415,0.006,0.426,8.482,29.115,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2014,Country or economy,Renewables,True,48.68,-2.2,-4.324,69.089,-0.126,11.15,1.416,0.006,0.426,8.488,29.088,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2014,Country or economy,Clean,True,48.68,-2.2,-4.324,69.089,-0.126,11.15,1.416,0.006,0.426,8.488,29.088,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2014,Country or economy,Fossil,True,21.78,-0.85,-3.756,30.911,0.126,6.109999999999999,15.267,-0.665,-4.174,91.515,700.964,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2014,Country or economy,Total generation,True,70.46,-3.05,-4.149,100.0,0.0,17.259999999999998,16.683,-0.659,-3.8,100.003,236.773,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2014,Country or economy,Demand,True,69.66,-2.5,-3.465,98.865,0.701,,,,,,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2015,Country or economy,Solar,False,0.01,0.0,0.0,0.013,-0.001,0.0,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2015,Country or economy,Wind,False,0.07,0.0,0.0,0.09,-0.009,0.02,0.001,0.0,0.0,0.005,14.286,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2015,Country or economy,Hydro,False,47.94,0.69,1.46,61.485,-5.574,11.5,1.139,0.016,1.425,5.306,23.759,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2015,Country or economy,Bioenergy,False,1.37,0.02,1.481,1.757,-0.159,0.24,0.296,0.004,1.37,1.379,216.058,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2015,Country or economy,Other renewables,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2015,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2015,Country or economy,Coal,False,7.06,1.6,29.304,9.055,1.306,1.34,6.16,1.4,29.412,28.697,872.521,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2015,Country or economy,Gas,False,17.95,3.71,26.053,23.022,2.812,3.29,11.52,2.381,26.053,53.667,641.783,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2015,Country or economy,Other fossil,False,3.57,1.49,71.635,4.579,1.627,2.07,2.349,0.98,71.585,10.943,657.983,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2015,Country or economy,Net imports,False,-0.41,0.39,-48.75,-0.526,0.609,,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2015,Country or economy,Wind and solar,True,0.08,0.0,0.0,0.103,-0.011,0.02,0.001,0.0,0.0,0.005,12.5,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2015,Country or economy,"Hydro, bioenergy and other renewables",True,49.31,0.71,1.461,63.242,-5.733,11.74,1.435,0.02,1.413,6.685,29.102,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2015,Country or economy,Renewables,True,49.39,0.71,1.459,63.345,-5.744,11.76,1.436,0.02,1.412,6.69,29.075,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2015,Country or economy,Clean,True,49.39,0.71,1.459,63.345,-5.744,11.76,1.436,0.02,1.412,6.69,29.075,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2015,Country or economy,Fossil,True,28.58,6.8,31.221,36.655,5.744,6.699999999999999,20.029,4.762,31.191,93.307,700.805,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2015,Country or economy,Total generation,True,77.97,7.51,10.659,100.0,0.0,18.46,21.466,4.783,28.67,100.002,275.311,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2015,Country or economy,Demand,True,77.56,7.9,11.341,99.474,0.609,,,,,,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2016,Country or economy,Solar,False,0.01,0.0,0.0,0.013,0.0,0.0,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2016,Country or economy,Wind,False,0.05,-0.02,-28.571,0.066,-0.024,0.02,0.0,-0.001,-100.0,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2016,Country or economy,Hydro,False,48.46,0.52,1.085,63.621,2.136,11.61,1.151,0.012,1.054,5.821,23.752,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2016,Country or economy,Bioenergy,False,1.46,0.09,6.569,1.917,0.16,0.26,0.316,0.02,6.757,1.598,216.438,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2016,Country or economy,Other renewables,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2016,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2016,Country or economy,Coal,False,6.18,-0.88,-12.465,8.113,-0.942,1.34,5.397,-0.763,-12.386,27.295,873.301,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2016,Country or economy,Gas,False,15.9,-2.05,-11.421,20.874,-2.148,3.29,10.204,-1.316,-11.424,51.605,641.761,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2016,Country or economy,Other fossil,False,4.11,0.54,15.126,5.396,0.817,1.64,2.704,0.355,15.113,13.675,657.908,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2016,Country or economy,Net imports,False,0.33,0.74,-180.488,0.433,0.959,,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2016,Country or economy,Wind and solar,True,0.06,-0.02,-25.0,0.079,-0.024,0.02,0.001,0.0,0.0,0.005,16.667,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2016,Country or economy,"Hydro, bioenergy and other renewables",True,49.92,0.61,1.237,65.538,2.296,11.87,1.467,0.032,2.23,7.419,29.387,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2016,Country or economy,Renewables,True,49.98,0.59,1.195,65.616,2.271,11.889999999999999,1.468,0.032,2.228,7.424,29.372,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2016,Country or economy,Clean,True,49.98,0.59,1.195,65.616,2.271,11.889999999999999,1.468,0.032,2.228,7.424,29.372,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2016,Country or economy,Fossil,True,26.19,-2.39,-8.362,34.384,-2.271,6.27,18.305,-1.724,-8.608,92.575,698.931,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2016,Country or economy,Total generation,True,76.17,-1.8,-2.309,100.0,0.0,18.16,19.773,-1.693,-7.887,99.999,259.59,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2016,Country or economy,Demand,True,76.5,-1.06,-1.367,100.433,0.959,,,,,,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2017,Country or economy,Solar,False,0.01,0.0,0.0,0.013,0.0,0.01,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2017,Country or economy,Wind,False,0.0,-0.05,-100.0,0.0,-0.066,0.02,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2017,Country or economy,Hydro,False,60.64,12.18,25.134,77.278,13.657,11.73,1.441,0.29,25.195,11.052,23.763,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2017,Country or economy,Bioenergy,False,1.42,-0.04,-2.74,1.81,-0.107,0.31,0.307,-0.009,-2.848,2.354,216.197,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2017,Country or economy,Other renewables,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2017,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2017,Country or economy,Coal,False,3.15,-3.03,-49.029,4.014,-4.099,1.34,2.751,-2.646,-49.027,21.098,873.333,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2017,Country or economy,Gas,False,11.01,-4.89,-30.755,14.031,-6.843,3.29,7.066,-3.138,-30.753,54.192,641.78,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2017,Country or economy,Other fossil,False,2.24,-1.87,-45.499,2.855,-2.541,2.09,1.474,-1.23,-45.488,11.305,658.036,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2017,Country or economy,Net imports,False,0.07,-0.26,-78.788,0.089,-0.344,,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2017,Country or economy,Wind and solar,True,0.01,-0.05,-83.333,0.013,-0.066,0.03,0.0,-0.001,-100.0,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2017,Country or economy,"Hydro, bioenergy and other renewables",True,62.06,12.14,24.319,79.088,13.55,12.040000000000001,1.748,0.281,19.155,13.406,28.166,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2017,Country or economy,Renewables,True,62.07,12.09,24.19,79.1,13.484,12.07,1.748,0.28,19.074,13.406,28.162,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2017,Country or economy,Clean,True,62.07,12.09,24.19,79.1,13.484,12.07,1.748,0.28,19.074,13.406,28.162,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2017,Country or economy,Fossil,True,16.4,-9.79,-37.381,20.9,-13.484,6.72,11.291,-7.014,-38.317,86.595,688.476,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2017,Country or economy,Total generation,True,78.47,2.3,3.02,100.0,0.0,18.790000000000003,13.039,-6.734,-34.057,100.001,166.165,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2017,Country or economy,Demand,True,78.54,2.04,2.667,100.089,-0.344,,,,,,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2018,Country or economy,Solar,False,0.02,0.01,100.0,0.026,0.013,0.01,0.001,0.001,,0.007,50.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2018,Country or economy,Wind,False,0.04,0.04,,0.051,0.051,0.02,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2018,Country or economy,Hydro,False,58.19,-2.45,-4.04,74.402,-2.876,11.84,1.383,-0.058,-4.025,9.43,23.767,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2018,Country or economy,Bioenergy,False,1.45,0.03,2.113,1.854,0.044,0.32,0.313,0.006,1.954,2.134,215.862,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2018,Country or economy,Other renewables,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2018,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2018,Country or economy,Coal,False,4.52,1.37,43.492,5.779,1.765,1.61,3.952,1.201,43.657,26.947,874.336,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2018,Country or economy,Gas,False,11.62,0.61,5.54,14.857,0.826,3.38,7.457,0.391,5.534,50.846,641.738,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2018,Country or economy,Other fossil,False,2.37,0.13,5.804,3.03,0.175,2.18,1.559,0.085,5.767,10.63,657.806,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2018,Country or economy,Net imports,False,0.11,0.04,57.143,0.141,0.052,,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2018,Country or economy,Wind and solar,True,0.06,0.05,500.0,0.077,0.064,0.03,0.001,0.001,,0.007,16.667,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2018,Country or economy,"Hydro, bioenergy and other renewables",True,59.64,-2.42,-3.899,76.256,-2.832,12.16,1.696,-0.052,-2.975,11.564,28.437,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2018,Country or economy,Renewables,True,59.7,-2.37,-3.818,76.333,-2.767,12.19,1.697,-0.051,-2.918,11.571,28.425,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2018,Country or economy,Clean,True,59.7,-2.37,-3.818,76.333,-2.767,12.19,1.697,-0.051,-2.918,11.571,28.425,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2018,Country or economy,Fossil,True,18.51,2.11,12.866,23.667,2.767,7.17,12.969,1.678,14.861,88.43,700.648,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2018,Country or economy,Total generation,True,78.21,-0.26,-0.331,100.0,0.0,19.36,14.666,1.627,12.478,100.001,187.521,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2018,Country or economy,Demand,True,78.32,-0.22,-0.28,100.141,0.052,,,,,,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2019,Country or economy,Solar,False,0.13,0.11,550.0,0.165,0.139,0.02,0.006,0.005,500.0,0.032,46.154,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2019,Country or economy,Wind,False,0.06,0.02,50.0,0.076,0.025,0.02,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2019,Country or economy,Hydro,False,52.98,-5.21,-8.953,67.251,-7.151,11.93,1.259,-0.124,-8.966,6.635,23.764,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2019,Country or economy,Bioenergy,False,1.57,0.12,8.276,1.993,0.139,0.32,0.339,0.026,8.307,1.787,215.924,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2019,Country or economy,Other renewables,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2019,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2019,Country or economy,Coal,False,8.13,3.61,79.867,10.32,4.541,1.61,7.115,3.163,80.035,37.497,875.154,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2019,Country or economy,Gas,False,13.16,1.54,13.253,16.705,1.848,3.38,8.446,0.989,13.263,44.512,641.793,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2019,Country or economy,Other fossil,False,2.75,0.38,16.034,3.491,0.461,1.49,1.81,0.251,16.1,9.539,658.182,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2019,Country or economy,Net imports,False,0.31,0.2,181.818,0.394,0.253,,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2019,Country or economy,Wind and solar,True,0.19,0.13,216.667,0.241,0.164,0.04,0.007,0.006,600.0,0.037,36.842,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2019,Country or economy,"Hydro, bioenergy and other renewables",True,54.55,-5.09,-8.535,69.243,-7.013,12.25,1.598,-0.098,-5.778,8.422,29.294,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2019,Country or economy,Renewables,True,54.74,-4.96,-8.308,69.485,-6.848,12.29,1.605,-0.092,-5.421,8.459,29.32,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2019,Country or economy,Clean,True,54.74,-4.96,-8.308,69.485,-6.848,12.29,1.605,-0.092,-5.421,8.459,29.32,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2019,Country or economy,Fossil,True,24.04,5.53,29.876,30.515,6.848,6.48,17.37,4.401,33.935,91.543,722.546,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2019,Country or economy,Total generation,True,78.78,0.57,0.729,100.0,0.0,18.77,18.975,4.309,29.381,100.001,240.861,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2019,Country or economy,Demand,True,79.09,0.77,0.983,100.394,0.253,,,,,,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2020,Country or economy,Solar,False,0.19,0.06,46.154,0.244,0.079,0.07,0.009,0.003,50.0,0.043,47.368,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2020,Country or economy,Wind,False,0.01,-0.05,-83.333,0.013,-0.063,0.02,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2020,Country or economy,Hydro,False,48.44,-4.54,-8.569,62.302,-4.949,11.96,1.151,-0.108,-8.578,5.455,23.761,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2020,Country or economy,Bioenergy,False,2.15,0.58,36.943,2.765,0.772,0.33,0.465,0.126,37.168,2.204,216.279,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2020,Country or economy,Other renewables,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2020,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2020,Country or economy,Coal,False,9.12,0.99,12.177,11.73,1.41,1.61,7.981,0.866,12.171,37.828,875.11,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2020,Country or economy,Gas,False,15.19,2.03,15.426,19.537,2.832,3.48,9.749,1.303,15.427,46.208,641.804,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2020,Country or economy,Other fossil,False,2.65,-0.1,-3.636,3.408,-0.083,1.49,1.744,-0.066,-3.646,8.266,658.113,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2020,Country or economy,Net imports,False,1.05,0.74,238.71,1.35,0.956,,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2020,Country or economy,Wind and solar,True,0.2,0.01,5.263,0.257,0.016,0.09000000000000001,0.009,0.002,28.571,0.043,45.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2020,Country or economy,"Hydro, bioenergy and other renewables",True,50.59,-3.96,-7.259,65.068,-4.175,12.290000000000001,1.616,0.018,1.126,7.659,31.943,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2020,Country or economy,Renewables,True,50.79,-3.95,-7.216,65.325,-4.16,12.38,1.625,0.02,1.246,7.702,31.994,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2020,Country or economy,Clean,True,50.79,-3.95,-7.216,65.325,-4.16,12.38,1.625,0.02,1.246,7.702,31.994,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2020,Country or economy,Fossil,True,26.96,2.92,12.146,34.675,4.16,6.58,19.473,2.103,12.107,92.297,722.292,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2020,Country or economy,Total generation,True,77.75,-1.03,-1.307,100.0,0.0,18.96,21.098,2.123,11.188,99.999,271.357,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2020,Country or economy,Demand,True,78.8,-0.29,-0.367,101.35,0.956,,,,,,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2021,Country or economy,Solar,False,0.33,0.14,73.684,0.391,0.147,0.15,0.016,0.007,77.778,0.097,48.485,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2021,Country or economy,Wind,False,0.06,0.05,500.0,0.071,0.058,0.02,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2021,Country or economy,Hydro,False,60.7,12.26,25.31,71.954,9.652,11.95,1.442,0.291,25.282,8.728,23.756,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2021,Country or economy,Bioenergy,False,2.24,0.09,4.186,2.655,-0.11,0.35,0.484,0.019,4.086,2.93,216.071,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2021,Country or economy,Other renewables,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2021,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2021,Country or economy,Coal,False,4.44,-4.68,-51.316,5.263,-6.467,1.61,3.886,-4.095,-51.309,23.521,875.225,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2021,Country or economy,Gas,False,13.76,-1.43,-9.414,16.311,-3.226,3.53,8.831,-0.918,-9.416,53.453,641.788,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2021,Country or economy,Other fossil,False,2.83,0.18,6.792,3.355,-0.053,1.47,1.862,0.118,6.766,11.27,657.951,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2021,Country or economy,Net imports,False,0.12,-0.93,-88.571,0.142,-1.208,,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2021,Country or economy,Wind and solar,True,0.39,0.19,95.0,0.462,0.205,0.16999999999999998,0.016,0.007,77.778,0.097,41.026,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2021,Country or economy,"Hydro, bioenergy and other renewables",True,62.94,12.35,24.412,74.609,9.541,12.299999999999999,1.927,0.311,19.245,11.664,30.616,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2021,Country or economy,Renewables,True,63.33,12.54,24.69,75.071,9.746,12.469999999999999,1.943,0.318,19.569,11.761,30.681,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2021,Country or economy,Clean,True,63.33,12.54,24.69,75.071,9.746,12.469999999999999,1.943,0.318,19.569,11.761,30.681,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2021,Country or economy,Fossil,True,21.03,-5.93,-21.996,24.929,-9.746,6.609999999999999,14.578,-4.895,-25.137,88.239,693.2,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2021,Country or economy,Total generation,True,84.36,6.61,8.502,100.0,0.0,19.079999999999995,16.521,-4.577,-21.694,99.999,195.839,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2021,Country or economy,Demand,True,84.48,5.68,7.208,100.142,-1.208,,,,,,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2022,Country or economy,Solar,False,0.63,0.3,90.909,0.76,0.369,0.31,0.03,0.014,87.5,0.179,47.619,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2022,Country or economy,Wind,False,0.07,0.01,16.667,0.084,0.013,0.03,0.001,0.001,,0.006,14.286,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2022,Country or economy,Hydro,False,58.73,-1.97,-3.245,70.879,-1.075,13.18,1.395,-0.047,-3.259,8.329,23.753,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2022,Country or economy,Bioenergy,False,2.18,-0.06,-2.679,2.631,-0.024,0.35,0.471,-0.013,-2.686,2.812,216.055,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2022,Country or economy,Other renewables,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2022,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2022,Country or economy,Coal,False,5.01,0.57,12.838,6.046,0.783,1.61,4.384,0.498,12.815,26.175,875.05,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2022,Country or economy,Gas,False,13.49,-0.27,-1.962,16.28,-0.031,3.74,8.658,-0.173,-1.959,51.694,641.809,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2022,Country or economy,Other fossil,False,2.75,-0.08,-2.827,3.319,-0.036,1.48,1.81,-0.052,-2.793,10.807,658.182,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2022,Country or economy,Net imports,False,0.43,0.31,258.333,0.519,0.377,,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2022,Country or economy,Wind and solar,True,0.7,0.31,79.487,0.845,0.383,0.33999999999999997,0.03,0.014,87.5,0.179,42.857,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2022,Country or economy,"Hydro, bioenergy and other renewables",True,60.91,-2.03,-3.225,73.51,-1.099,13.53,1.867,-0.06,-3.114,11.147,30.652,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2022,Country or economy,Renewables,True,61.61,-1.72,-2.716,74.354,-0.717,13.87,1.897,-0.046,-2.367,11.326,30.79,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2022,Country or economy,Clean,True,61.61,-1.72,-2.716,74.354,-0.717,13.87,1.897,-0.046,-2.367,11.326,30.79,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2022,Country or economy,Fossil,True,21.25,0.22,1.046,25.646,0.717,6.83,14.851,0.273,1.873,88.67,698.871,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2022,Country or economy,Total generation,True,82.86,-1.5,-1.778,100.0,0.0,20.7,16.749,0.228,1.38,100.003,202.136,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2022,Country or economy,Demand,True,83.29,-1.19,-1.409,100.519,0.377,,,,,,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2023,Country or economy,Solar,False,1.333,0.703,111.587,1.579,0.819,0.53,0.063,0.033,110.0,0.287,47.262,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2023,Country or economy,Wind,False,0.199,0.129,184.286,0.236,0.152,0.03,0.002,0.001,100.0,0.009,10.05,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2023,Country or economy,Hydro,False,54.226,-4.504,-7.669,64.243,-6.636,13.22,1.288,-0.107,-7.67,5.869,23.752,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2023,Country or economy,Other renewables,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2023,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2023,Country or economy,Coal,False,9.223,4.213,84.092,10.927,4.881,1.61,8.071,3.687,84.101,36.78,875.095,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2023,Country or economy,Gas,False,16.193,2.703,20.037,19.184,2.904,4.31,10.392,1.734,20.028,47.356,641.759,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2023,Country or economy,Other fossil,False,3.234,0.484,17.6,3.831,0.512,1.48,2.128,0.318,17.569,9.697,658.009,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2023,Country or economy,Net imports,False,-0.03,-0.46,-106.977,-0.036,-0.555,,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2023,Country or economy,Wind and solar,True,1.532,0.832,118.857,1.815,0.97,0.56,0.065,0.035,116.667,0.296,42.428,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2023,Country or economy,"Hydro, bioenergy and other renewables",True,54.226,-6.684,-10.974,64.243,-9.267,13.610000000000001,1.288,-0.579,-31.012,5.869,23.752,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2023,Country or economy,Renewables,True,55.758,-5.852,-9.498,66.058,-8.296,14.17,1.353,-0.544,-28.677,6.166,24.266,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2023,Country or economy,Clean,True,55.758,-5.852,-9.498,66.058,-8.296,14.17,1.353,-0.544,-28.677,6.166,24.266,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2023,Country or economy,Fossil,True,28.649,7.399,34.819,33.941,8.295,7.4,20.591,5.74,38.651,93.833,718.734,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2023,Country or economy,Total generation,True,84.407,1.547,1.867,100.0,0.0,21.570000000000004,21.944,5.195,31.017,99.999,259.978,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2023,Country or economy,Demand,True,84.377,1.087,1.305,99.964,-0.555,,,,,,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2024,Country or economy,Solar,False,3.431,2.098,157.389,3.843,2.264,1.42,0.163,0.1,158.73,0.612,47.508,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2024,Country or economy,Wind,False,0.144,-0.055,-27.638,0.161,-0.075,0.03,0.001,-0.001,-50.0,0.004,6.944,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2024,Country or economy,Hydro,False,48.897,-5.329,-9.827,54.765,-9.478,13.22,1.162,-0.126,-9.783,4.365,23.764,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2024,Country or economy,Bioenergy,False,2.22,0.04,1.835,2.486,-0.145,0.39,0.48,0.009,1.911,1.803,216.216,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2024,Country or economy,Other renewables,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2024,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2024,Country or economy,Coal,False,10.851,1.628,17.652,12.153,1.226,1.61,9.496,1.425,17.656,35.669,875.127,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2024,Country or economy,Gas,False,18.569,2.376,14.673,20.797,1.613,4.31,11.917,1.525,14.675,44.763,641.769,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2024,Country or economy,Other fossil,False,5.173,1.939,59.957,5.794,1.963,1.5,3.404,1.276,59.962,12.786,658.032,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2024,Country or economy,Net imports,False,-0.487,-0.457,1523.333,-0.545,-0.509,,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2024,Country or economy,Wind and solar,True,3.575,2.043,133.355,4.004,2.189,1.45,0.164,0.099,152.308,0.616,45.874,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2024,Country or economy,"Hydro, bioenergy and other renewables",True,51.117,-3.109,-5.733,57.251,-6.992,13.610000000000001,1.642,0.354,27.484,6.168,32.122,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2024,Country or economy,Renewables,True,54.692,-1.066,-1.912,61.255,-4.803,15.06,1.806,0.453,33.481,6.784,33.021,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2024,Country or economy,Clean,True,54.692,-1.066,-1.912,61.255,-4.803,15.06,1.806,0.453,33.481,6.784,33.021,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2024,Country or economy,Fossil,True,34.593,5.944,20.748,38.744,4.803,7.42,24.817,4.226,20.524,93.218,717.399,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2024,Country or economy,Total generation,True,89.285,4.878,5.779,100.0,0.0,22.480000000000004,26.623,4.679,21.322,100.002,298.18,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2024,Country or economy,Demand,True,88.798,4.421,5.24,99.454,-0.51,,,,,,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2025,Country or economy,Solar,False,4.602,1.171,34.13,5.089,1.246,1.73,0.219,0.056,34.356,1.302,47.588,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2025,Country or economy,Wind,False,0.151,0.007,4.861,0.167,0.006,0.03,0.001,0.0,0.0,0.006,6.623,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2025,Country or economy,Hydro,False,62.495,13.598,27.809,69.113,14.348,13.22,1.485,0.323,27.797,8.828,23.762,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2025,Country or economy,Bioenergy,False,2.332,0.112,5.045,2.579,0.093,0.42,0.504,0.024,5.0,2.996,216.123,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2025,Country or economy,Other renewables,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2025,Country or economy,Nuclear,False,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,,0.0,,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2025,Country or economy,Coal,False,5.018,-5.833,-53.755,5.549,-6.604,1.61,4.391,-5.105,-53.759,26.104,875.05,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2025,Country or economy,Gas,False,11.891,-6.678,-35.963,13.15,-7.647,4.31,7.631,-4.286,-35.965,45.365,641.746,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2025,Country or economy,Other fossil,False,3.936,-1.237,-23.913,4.353,-1.441,1.41,2.59,-0.814,-23.913,15.397,658.028,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2025,Country or economy,Net imports,False,0.302,0.789,-162.012,0.334,0.879,,0.0,0.0,,0.0,0.0,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2025,Country or economy,Wind and solar,True,4.752,1.177,32.923,5.255,1.251,1.76,0.22,0.056,34.146,1.308,46.296,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2025,Country or economy,"Hydro, bioenergy and other renewables",True,64.827,13.71,26.821,71.692,14.441,13.64,1.989,0.347,21.133,11.824,30.682,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2025,Country or economy,Renewables,True,69.579,14.887,27.22,76.947,15.692,15.4,2.209,0.403,22.315,13.132,31.748,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2025,Country or economy,Clean,True,69.579,14.887,27.22,76.947,15.692,15.4,2.209,0.403,22.315,13.132,31.748,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2025,Country or economy,Fossil,True,20.845,-13.748,-39.742,23.052,-15.692,7.33,14.612,-10.205,-41.121,86.866,700.983,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2025,Country or economy,Total generation,True,90.424,1.139,1.276,100.0,0.0,22.730000000000004,16.821,-9.802,-36.818,99.998,186.024,South America,Latin America and Caribbean,False,True,False,False,False
+Colombia,COL,2025,Country or economy,Demand,True,90.726,1.928,2.171,100.334,0.88,,,,,,,South America,Latin America and Caribbean,False,True,False,False,False

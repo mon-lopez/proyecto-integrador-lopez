@@ -1,0 +1,287 @@
+{
+ "fecha": "2026-11-11",
+ "consultas": [
+  {
+   "termino": "FNCER",
+   "resultados": 2,
+   "ids": [
+    "nyyd-gdfx",
+    "vy9n-w6hc"
+   ]
+  },
+  {
+   "termino": "energía solar",
+   "resultados": 1,
+   "ids": [
+    "vy9n-w6hc"
+   ]
+  },
+  {
+   "termino": "fotovoltaic",
+   "resultados": 0,
+   "ids": []
+  },
+  {
+   "termino": "eólica",
+   "resultados": 1,
+   "ids": [
+    "vy9n-w6hc"
+   ]
+  },
+  {
+   "termino": "viento",
+   "resultados": 15,
+   "ids": [
+    "kiw7-v9ta",
+    "sgfv-3yp8",
+    "58ct-h586",
+    "84ns-9eve",
+    "nah8-k5zm",
+    "ymy2-zhht",
+    "2jrp-f4m5",
+    "6mfd-x5if",
+    "qski-u769",
+    "f6fn-mw3m",
+    "fvvs-hxtq",
+    "3v9a-6acv",
+    "5dsf-x7tb",
+    "kh7q-whyx",
+    "kekd-7v7h"
+   ]
+  },
+  {
+   "termino": "biomasa",
+   "resultados": 0,
+   "ids": []
+  },
+  {
+   "termino": "biogás",
+   "resultados": 0,
+   "ids": []
+  },
+  {
+   "termino": "generación de energía",
+   "resultados": 33,
+   "ids": [
+    "q6f3-ygre",
+    "3a44-zwt6",
+    "tq63-itzr",
+    "k7um-6e3w",
+    "ytme-6qnu",
+    "vy9n-w6hc",
+    "c698-wqig",
+    "bsnu-ddmp",
+    "3gcd-b5i3",
+    "wd6i-e2ny",
+    "p7wb-z8zs",
+    "q9m8-unnc",
+    "ss7u-2u93",
+    "cykn-xqqy",
+    "35j5-vbwy",
+    "krvh-uvdj",
+    "dh7i-ghjy",
+    "7r4w-urrg",
+    "gbi9-rzbc",
+    "89tk-scr8",
+    "k77r-2yzf",
+    "5cvc-m38t",
+    "mhsp-xfhb",
+    "wdni-2g7g",
+    "fx5x-g786",
+    "vniz-4svr",
+    "7amp-4swy",
+    "5f9b-w4sb",
+    "td8k-vhq9",
+    "i2yv-r7gm",
+    "k5xs-gi6c",
+    "mqua-u6bg",
+    "wpav-h5ff"
+   ]
+  },
+  {
+   "termino": "capacidad instalada eléctrica",
+   "resultados": 0,
+   "ids": []
+  },
+  {
+   "termino": "hidroeléctrica",
+   "resultados": 7,
+   "ids": [
+    "krvh-uvdj",
+    "qntd-vie2",
+    "kscf-fk2u",
+    "c698-wqig",
+    "fx5x-g786",
+    "fbf9-ths7",
+    "q6f3-ygre"
+   ]
+  },
+  {
+   "termino": "embalses",
+   "resultados": 4,
+   "ids": [
+    "3vgy-n5dr",
+    "7peu-q4hn",
+    "dq2g-rw28",
+    "4q6d-6s7b"
+   ]
+  },
+  {
+   "termino": "gases de efecto invernadero",
+   "resultados": 852,
+   "ids": [
+    "ttr3-i6yj",
+    "yrhn-3pw5",
+    "s3gg-fcvi",
+    "25nw-b8kq",
+    "tzxy-chv2",
+    "qmgk-t9vt",
+    "6rff-a5ep",
+    "isve-zbhc",
+    "pvsp-rfj6",
+    "sx6m-p6bv",
+    "ypts-dn9q",
+    "2iht-wwxh",
+    "ev4w-zk2i",
+    "fiev-nid6",
+    "fqwq-ik2w",
+    "rptq-q4rd",
+    "y2zk-c694",
+    "2uy8-gb78",
+    "c698-wqig",
+    "iczg-dyt3",
+    "fwrg-sef3",
+    "hrjt-xzmb",
+    "erzn-xnx6",
+    "yn26-hitk",
+    "nftv-7mae",
+    "9evq-x8rx",
+    "28sd-dsje",
+    "8niu-2k8m",
+    "b6pg-jbuq",
+    "sq65-is2t",
+    "ssx3-wvax",
+    "gyyd-6h6d",
+    "pqxu-h2yd",
+    "87hk-9786",
+    "bsta-rw3e",
+    "gwqv-sqvs",
+    "wasc-xi4h",
+    "2wpt-j7j8",
+    "ja8b-fheg",
+    "ysp8-jmnm"
+   ]
+  },
+  {
+   "termino": "inventario nacional de emisiones",
+   "resultados": 3345,
+   "ids": [
+    "pvsp-rfj6",
+    "28sd-dsje",
+    "6rff-a5ep",
+    "xs9n-2dua",
+    "isve-zbhc",
+    "sx6m-p6bv",
+    "ttr3-i6yj",
+    "jxcp-w7rh",
+    "25nw-b8kq",
+    "vy9n-w6hc",
+    "s2my-4tjy",
+    "i7cb-raxc",
+    "u8du-s7mh",
+    "ezfm-eqrh",
+    "5bbt-dm6e",
+    "5gac-vyg3",
+    "vgr4-gemg",
+    "ii2p-naes",
+    "qxc2-itbp",
+    "h3sz-zqij",
+    "mnk6-hfcu",
+    "x7wx-67fu",
+    "dhy3-732k",
+    "365g-zxzc",
+    "mxk5-ce6w",
+    "vwwf-4ftk",
+    "9wp2-bm9u",
+    "7nsu-mfub",
+    "xzwx-qpja",
+    "gg7h-e6ea",
+    "b3vx-5vd2",
+    "q3n3-v6bq",
+    "i3kx-3zps",
+    "4v2a-vz95",
+    "i82p-xkdb",
+    "q9m8-unnc",
+    "72nf-y4v3",
+    "actn-47cb",
+    "jwvi-unqh",
+    "3frn-km2f"
+   ]
+  },
+  {
+   "termino": "factores de emisión",
+   "resultados": 2,
+   "ids": [
+    "28sd-dsje",
+    "pvsp-rfj6"
+   ]
+  },
+  {
+   "termino": "radiación",
+   "resultados": 17,
+   "ids": [
+    "xhu9-3dq9",
+    "vhn3-kbc6",
+    "rv9s-8nv6",
+    "58ct-h586",
+    "84ns-9eve",
+    "nah8-k5zm",
+    "2jrp-f4m5",
+    "kfsz-ija2",
+    "6mfd-x5if",
+    "ymy2-zhht",
+    "f6fn-mw3m",
+    "qski-u769",
+    "fvvs-hxtq",
+    "5dsf-x7tb",
+    "kh7q-whyx",
+    "3v9a-6acv",
+    "kekd-7v7h"
+   ]
+  },
+  {
+   "termino": "balance energético",
+   "resultados": 0,
+   "ids": []
+  },
+  {
+   "termino": "zonas no interconectadas",
+   "resultados": 3,
+   "ids": [
+    "3ebi-d83g",
+    "qwe5-ycap",
+    "p62q-r7ag"
+   ]
+  },
+  {
+   "termino": "hidrógeno",
+   "resultados": 1,
+   "ids": [
+    "5dpu-htqu"
+   ]
+  },
+  {
+   "termino": "comunidades energéticas",
+   "resultados": 2,
+   "ids": [
+    "n83f-6qt7",
+    "h64r-6vxv"
+   ]
+  },
+  {
+   "termino": "autogeneración",
+   "resultados": 0,
+   "ids": []
+  }
+ ]
+}
