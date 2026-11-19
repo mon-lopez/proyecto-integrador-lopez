@@ -1,0 +1,102 @@
+{
+ "fecha_analisis": "2026-11-11",
+ "ultimo_anio_completo_upme": 2025,
+ "generacion_total_gwh": 84411.88,
+ "pct_fncer_no_hidro": 6.609,
+ "pct_renovable_total": 87.284,
+ "fncer_no_hidro_gwh": 5579.11,
+ "escA_mtco2eq": 1.2274,
+ "escB_mtco2eq": 3.6318,
+ "acumulado_2014_2025_escA_mtco2eq": 4.22,
+ "acumulado_2014_2025_escB_mtco2eq": 12.209,
+ "ingei_2024_energia_ktco2eq": 105306.19,
+ "ingei_2024_electricidad_ktco2eq": 17189.48,
+ "fe_implicito_ingei_2024_t_mwh": 0.2064,
+ "meta_fncer": [
+  {
+   "tecnologia": "Eólico",
+   "proyectos": 13,
+   "capacidad_mw": 1615.17,
+   "energia_gwh_anio": 5659.6,
+   "co2_declarado_t_anio": 4527644.0,
+   "fe_implicito_mediano_t_mwh": 0.8,
+   "fe_implicito_min_t_mwh": 0.8,
+   "fe_implicito_max_t_mwh": 0.8
+  },
+  {
+   "tecnologia": "Solar",
+   "proyectos": 145,
+   "capacidad_mw": 4384.35,
+   "energia_gwh_anio": 7679.3,
+   "co2_declarado_t_anio": 6143433.0,
+   "fe_implicito_mediano_t_mwh": 0.8,
+   "fe_implicito_min_t_mwh": 0.783,
+   "fe_implicito_max_t_mwh": 0.8
+  }
+ ],
+ "calidad_datos_upme": {
+  "primer_anio_de_reporte_por_fuente": {
+   "ACPM": 2000,
+   "AGUA": 2000,
+   "BAGAZO": 2000,
+   "CARBON": 2000,
+   "COMBUSTOLEO": 2000,
+   "GAS": 2000,
+   "JET-A1": 2000,
+   "OTROS": 2000,
+   "BIOGAS": 2016,
+   "RAD SOLAR": 2017,
+   "VIENTO": 2022,
+   "GLP": 2024,
+   "BIOMASA": 2024
+  },
+  "otros_gwh_por_anio": {
+   "2000": 3611.2,
+   "2001": 987.9,
+   "2002": 1215.1,
+   "2003": 1257.7,
+   "2004": 1268.4,
+   "2005": 1147.5,
+   "2006": 1071.7,
+   "2007": 784.5,
+   "2008": 964.8,
+   "2009": 1406.5,
+   "2010": 1485.1,
+   "2011": 837.1,
+   "2012": 861.4,
+   "2013": 614.8,
+   "2014": 710.5,
+   "2015": 642.8,
+   "2016": 638.0,
+   "2017": 641.4,
+   "2018": 540.1,
+   "2019": 632.2,
+   "2020": 341.6,
+   "2021": 66.1,
+   "2022": 45.2,
+   "2023": 88.9,
+   "2024": 45.2,
+   "2025": 22.6,
+   "2026": 4.5
+  }
+ },
+ "ember_2025": {
+  "anio": 2025,
+  "solar_gwh": 4602.0,
+  "eolica_gwh": 151.0,
+  "biomasa_gwh": 2332.0,
+  "fncer_no_hidro_gwh": 7085.0,
+  "escA_mtco2eq": 1.5587,
+  "escB_mtco2eq": 4.5525,
+  "total_generacion_twh": 90.424,
+  "intensidad_gco2e_kwh": 186.024
+ },
+ "acumulado_2014_2025_escA_ember_mtco2eq": 6.902,
+ "acumulado_2014_2025_escB_ember_mtco2eq": 19.659,
+ "factores_usados": {
+  "inventario_t_mwh": 0.22,
+  "mdl_solar_eolica_t_mwh": 0.66,
+  "mdl_otros_t_mwh": 0.607,
+  "fuente": "Resolución UPME 000085 de 2026 (FE del SIN, año 2024)"
+ }
+}
