@@ -1,0 +1,17 @@
+"metrica","valor"
+"n total",400
+"Celdas de certeza",194
+"n para el resto",206
+"HT: estimación (Mt)",97.451
+"HT: error estándar (Mt)",1.941
+"HT: IC95 inferior",93.646
+"HT: IC95 superior",101.256
+"Razón: estimación (Mt)",97.324
+"Razón: error estándar (Mt)",0.567
+"Razón: IC95 inferior",96.212
+"Razón: IC95 superior",98.436
+"Valor real EDGAR (Mt)",102.14
+"HT: error relativo (%)",-4.591
+"Razón: error relativo (%)",-4.715
+"CV esperado HT (%)",1.901
+"CV esperado razón (%)",0.555

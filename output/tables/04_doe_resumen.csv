@@ -1,0 +1,42 @@
+"metrica","valor"
+"Corridas del factorial",240
+"Bloques (años)",16
+"Corridas con saturación",90
+"F tecnología",797.893364458282
+"p tecnología",1.0105123425279e-125
+"eta2p tecnología",0.938263864472363
+"F penetración",64.32938849322
+"p penetración",1.61428682836541e-22
+"eta2p penetración",0.379906813965703
+"F interacción",114.053978948742
+"p interacción",4.06578093729258e-72
+"eta2p interacción",0.81290623261946
+"Shapiro-Wilk p (modelo principal)",0.00881834688482043
+"Levene p (modelo principal)",3.10652397773488e-31
+"log-ANOVA p tecnología",6.71894344054579e-56
+"log-ANOVA p penetración",1.47013171363675e-05
+"log-ANOVA p interacción",1.28987101937898e-37
+"Kruskal-Wallis p tecnología",1.60483790987954e-26
+"Kruskal-Wallis p penetración",1.06779503222283e-12
+"ANOVA Welch p tecnología",7.31524955424625e-33
+"Robustez: conclusiones se mantienen",1
+"Pendiente renovables (t CO2/pp)",247276.191134798
+"Pendiente renovables EE",13649.0366150768
+"Pendiente media 5 tecnologías (t CO2/pp)",99610.2823974986
+"R2 modelo continuo",0.923956523329674
+"Demanda 2030 (GWh)",95901.2920663515
+"R2 proyección demanda",0.986228290308894
+"Base 2030 (Mt), composición media 2015-2025",16.3606280423531
+"Participación fósil de la base (%)",21.108902102919
+"Umbral de FNCER útil x1+x2 (pp)",21.108902102919
+"Emisiones mínimas 2030 (Mt) en la meseta",1.97301902631738
+"Reducción máxima (Mt)",14.3876090160358
+"Reducción máxima (%)",87.9404444547619
+"Reducción marginal en la región no saturada (t CO2/pp)",681589.641464404
+"Óptimo solar (%)",10.5544510514595
+"Óptimo eólica (%)",10.5544510514595
+"R2 modelo de 2.º orden (región no saturada)",0.999100290009328
+"Base 2030 (Mt), composición 2025 (sensibilidad)",11.3108483020652
+"Umbral de FNCER útil base 2025 (pp)",13.4249407331517
+"Reducción máxima base 2025 (Mt)",9.11893901946559
+"Reducción anterior por reparto proporcional (%) — NO VÁLIDA",75.47

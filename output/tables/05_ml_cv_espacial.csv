@@ -1,0 +1,3 @@
+"esquema","RMSE"
+"Validación aleatoria (10-fold)",0.713059436951576
+"Validación espacial (10 bloques)",0.8885

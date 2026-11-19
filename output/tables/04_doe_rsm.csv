@@ -1,0 +1,43 @@
+"seccion","termino","estimacion","ee","estadistico","p","nota"
+"Parámetro del modelo corregido","base_media_mt",16.3606280423531,NA,NA,NA,"base sin FNCER nueva (fósil + ciclo de vida hidro/biomasa)"
+"Parámetro del modelo corregido","fosil_base_mt",14.3876090160357,NA,NA,NA,"emisiones del fósil de la base"
+"Parámetro del modelo corregido","em_constante_mt",1.97301902631738,NA,NA,NA,"hidro + biomasa (constantes)"
+"Parámetro del modelo corregido","fosil_share_pct",21.108902102919,NA,NA,NA,"participación fósil de la base media"
+"Parámetro del modelo corregido","umbral_fncer_pct",21.108902102919,NA,NA,NA,"umbral de FNCER útil (x1+x2); más allá, vertido"
+"Parámetro del modelo corregido","emisiones_minimas_mt",1.97301902631738,NA,NA,NA,"emisiones en la meseta x1+x2 >= umbral"
+"Parámetro del modelo corregido","reduccion_maxima_mt",14.3876090160358,NA,NA,NA,"base_media_mt - emisiones_minimas_mt"
+"Parámetro del modelo corregido","reduccion_maxima_pct",87.9404444547619,NA,NA,NA,"porcentaje de reducción máxima alcanzable"
+"Parámetro del modelo corregido","marginal_t_por_pp",681589.641464404,NA,NA,NA,"pendiente media en x1+x2 < umbral (0 a 21,11 pp)"
+"Parámetro del modelo corregido","optimo_solar_pct",10.5544510514595,NA,NA,NA,"mezcla balanceada que alcanza la meseta"
+"Parámetro del modelo corregido","optimo_eolica_pct",10.5544510514595,NA,NA,NA,"idem"
+"Parámetro del modelo corregido","vertido_esquina_gwh",56477.3237953607,NA,NA,NA,"excedente vertido en (40,40)"
+"Parámetro del modelo corregido","vertido_esquina_pct",58.891097897081,NA,NA,NA,"porcentaje de la demanda vertido en (40,40)"
+"Tramos del orden de mérito","Carbón (0 -> S1) [pp]",836079.931402421,NA,NA,NA,"desde 0 hasta 5.6 pp de x1+x2"
+"Tramos del orden de mérito","Gas (S1 -> S2) [pp]",615471.955678208,NA,NA,NA,"desde 5.6 hasta 18.28 pp de x1+x2"
+"Tramos del orden de mérito","Líquidos (S2 -> umbral) [pp]",672005.767351323,NA,NA,NA,"desde 18.28 hasta 21.11 pp de x1+x2"
+"Ajuste en la región no saturada","n_corridas_ccd",3,NA,NA,NA,"solo 3 corridas del CCD caen en la región no saturada y aportan 2 niveles distintos de x1+x2; un polinomio de 2.º orden requiere >= 6 puntos independientes"
+"Ajuste en la región no saturada","n_niveles_x1x2",2,NA,NA,NA,NA
+"Ajuste en la región no saturada","cuadratico_estimable_ccd",0,NA,NA,NA,NA
+"Ajuste en la región no saturada","R2_lineal_ccd",1,NA,NA,NA,"modelo lineal exacto sobre las corridas del CCD"
+"Ajuste en la región no saturada","pendiente_lineal_ccd_t_por_pp",682121.02037231,NA,NA,NA,NA
+"Ajuste en la región no saturada","R2_cuadratico_malla",0.999100290009328,NA,NA,NA,"aproximación de 2.º orden sobre la función contable"
+"Ajuste en la región no saturada","RMSE_cuadratico_malla",0.0959849314180659,NA,NA,NA,"error RMSE en Mt CO2"
+"Ajuste en la región no saturada","n_puntos_malla",3655,NA,NA,NA,NA
+"Ajuste en la región no saturada","coef_intercepto",15.7260657722862,NA,NA,NA,NA
+"Ajuste en la región no saturada","coef_x1",-0.696057197286493,NA,NA,NA,NA
+"Ajuste en la región no saturada","coef_x2",-0.696057197286494,NA,NA,NA,NA
+"Ajuste en la región no saturada","coef_x1_2",0.00243398976965539,NA,NA,NA,NA
+"Ajuste en la región no saturada","coef_x2_2",0.00243398976965541,NA,NA,NA,NA
+"Ajuste en la región no saturada","coef_x1x2",0.00486797953931079,NA,NA,NA,NA
+"Sensibilidad: base 2025 (año húmedo)","base_media_mt",11.3108483020652,NA,NA,NA,"composición observada 2025"
+"Sensibilidad: base 2025 (año húmedo)","fosil_share_pct",13.4249407331517,NA,NA,NA,NA
+"Sensibilidad: base 2025 (año húmedo)","umbral_fncer_pct",13.4249407331517,NA,NA,NA,NA
+"Sensibilidad: base 2025 (año húmedo)","emisiones_minimas_mt",2.19190928259958,NA,NA,NA,NA
+"Sensibilidad: base 2025 (año húmedo)","reduccion_maxima_mt",9.11893901946559,NA,NA,NA,NA
+"Sensibilidad: base 2025 (año húmedo)","reduccion_maxima_pct",80.6211769085492,NA,NA,NA,NA
+"Sensibilidad: base 2025 (año húmedo)","marginal_t_por_pp",679253.577406655,NA,NA,NA,NA
+"Sensibilidad: base 2025 (año húmedo)","optimo_solar_pct",6.71247036657583,NA,NA,NA,NA
+"Sensibilidad: base 2025 (año húmedo)","optimo_eolica_pct",6.71247036657583,NA,NA,NA,NA
+"Método proporcional anterior (NO VÁLIDO)","reduccion_pct",75.47,NA,NA,NA,"El cálculo proporcional anterior (que repartía el resto de la matriz y hacía que la FNCER desplazara hidro) queda RETIRADO. La reducción del 75,5% que reportaba NO es válida: subestimaba el efecto (130.240 t/pp) y hacía físicamente posible un 80% de FNCER en una matriz con 77% de hidro."
+"Método proporcional anterior (NO VÁLIDO)","marginal_t_por_pp",130240,NA,NA,NA,"El cálculo proporcional anterior (que repartía el resto de la matriz y hacía que la FNCER desplazara hidro) queda RETIRADO. La reducción del 75,5% que reportaba NO es válida: subestimaba el efecto (130.240 t/pp) y hacía físicamente posible un 80% de FNCER en una matriz con 77% de hidro."
+"Método proporcional anterior (NO VÁLIDO)","valido",0,NA,NA,NA,"El cálculo proporcional anterior (que repartía el resto de la matriz y hacía que la FNCER desplazara hidro) queda RETIRADO. La reducción del 75,5% que reportaba NO es válida: subestimaba el efecto (130.240 t/pp) y hacía físicamente posible un 80% de FNCER en una matriz con 77% de hidro."
